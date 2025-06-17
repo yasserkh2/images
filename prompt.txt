@@ -66,7 +66,9 @@ In turn, this creates a stronger customer relationship that extends beyond the v
 
 This can equate to greater trust and an easier sell of new or related products, even extensions.
 
-![Screenshot](https://raw.githubusercontent.com/yasserkh2/images/main/Screenshot%202025-06-01%20235959.png)
+image:
+![OUR BRAND ARCHITECTURE](https://raw.githubusercontent.com/yasserkh2/images/main/OUR%20BRAND%20ARCHITECTURE.png)
+
 ---
 
 Boutique Personality
@@ -96,6 +98,121 @@ The logo consists of Arabic and English text elements, carefully proportioned an
 
 It must never be modified, reconstructed, or misused in any way. The integrity of the logo must be preserved across all applications.
 
+image:
+![Logo](https://raw.githubusercontent.com/yasserkh2/images/main/logo.png)
+
+
 ---
+
+LOGO: PROPORTION
+
+Logo: Proportion
+
+Our logo has been crafted with a primary focus on Arabic and a smaller proportion of the English translation.
+
+We ask you not to deconstruct, change, or modify any elements in our logo.  
+All parts and proportions have been carefully considered.
+
+The height of the Arabic text is used as the rule for the x-height in layout and spacing.
+
+image:
+![LOGO PROPORTION](https://raw.githubusercontent.com/yasserkh2/images/main/LOGO%20PROPORTION.png)
+
+---
+
+📘 Chunk: Logo – Clearance Space
+Logo: Clearance Space
+
+We have defined an exclusion zone that stops other graphic elements from interfering with the Bateel logo.
+
+To ensure that the logo is always seen clearly across all materials, we have defined two versions of clearance space:
+
+1. Signage Application  
+   The space between the Arabic and English elements defines the clearance zone.  
+   This guide ensures maximum visibility and optimal placement on storefronts.
+   ![1 Signage Application](https://raw.githubusercontent.com/yasserkh2/images/main/1%20Signage%20Application.png)
+
+2. Printed Collateral Application  
+   The height of the Arabic motif is used as the x-height to determine the minimum clearance around the logo.
+![2 Printed Collateral Application](https://raw.githubusercontent.com/yasserkh2/images/main/2%20Printed%20Collateral%20Application.png)
+
+---
+
+ Do’s & Don’ts
+
+Logo: Do’s & Don’ts
+
+It is crucial that our brand appears in the correct manner, all the time.  
+When applying the Bateel logo, the following rules should be adhered to at all times.
+
+✔ DO:
+1. Use the correct colour variations of the logo.
+![Do use the correct color](https://raw.githubusercontent.com/yasserkh2/images/main/Do%20use%20the%20correct%20color.png)
+
+2. Use the correct finish variations of the logo.
+![Correct Finish](https://raw.githubusercontent.com/yasserkh2/images/main/correct%20finish.png)
+
+3. Place the white logo over clear photographic backgrounds.
+![Correct Finish 2](https://raw.githubusercontent.com/yasserkh2/images/main/correct%20finish%202.png)
+
+4. Use a black logo for items such as receipts.
+![White Logo Over Clear](https://raw.githubusercontent.com/yasserkh2/images/main/white%20logo%20over%20clear.png)
+
+5.5 DO use a black logo for items such as receipts.
+![Black Logo](https://raw.githubusercontent.com/yasserkh2/images/main/black%20logo.png)
+
+✘ DO NOT:
+1. Modify the logo, or alter proportions in any way.
+![Do Not Modify the Logo](https://raw.githubusercontent.com/yasserkh2/images/main/Not%20modify%20the%20logo.png)
+
+2. Lock the tagline with the logo.
+![No Tagline](https://raw.githubusercontent.com/yasserkh2/images/main/no%20togline.png)
+
+
+3. Alter the colour of the logo.
+![Alter Color](https://raw.githubusercontent.com/yasserkh2/images/main/alter%20color.png)
+
+4. Place the dark brown logo over colour photography.
+![Don't Example 4](https://raw.githubusercontent.com/yasserkh2/images/main/4%20donot.png)
+
+5. Position the logo over busy photography.
+![Don't Example 5](https://raw.githubusercontent.com/yasserkh2/images/main/5%20donot%20.png)
+
+---
+
+Logo – Positioning
+
+Logo: Positioning
+
+The primary positioning of the Bateel logo for communications is in the top-right or bottom-right corner.
+
+For smaller formats, such as business cards, the logo can be positioned centrally.  
+This principle can also be applied for packaging.
+
+1. Stationery & Communications  
+   The Bateel logo should be placed in the corners on items like letterheads and compliment slips, and centered on business cards.
+![Logo Positioning 1](https://raw.githubusercontent.com/yasserkh2/images/main/logo%20positioning%201.png)
+
+2. Packaging  
+   Packaging formats can adopt a centred principle for logo positioning to maintain clarity and elegance.
+
+![Logo Positioning 2](https://raw.githubusercontent.com/yasserkh2/images/main/logo%20positioning%202.png)
+
+---
+
+LOGO: SIZING
+
+Logo: Sizing
+
+The logo must always be easily distinguished and appear clear and consistent.
+
+As long as the clearance space rule is adhered to, the logo can be used as large as desired.
+
+We have set a minimum size of 12mm in height to ensure legibility and brand consistency, especially in print and small-scale applications.
+
+![Logo Sizing](https://raw.githubusercontent.com/yasserkh2/images/main/logo%20sizing%20.png)
+---
+
+
 
 
